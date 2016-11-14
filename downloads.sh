@@ -2,10 +2,10 @@
 
 ## SOFTWARE: merge-pairs
 ## VERSION: 
-## COMMIT: 899591c9f81bc67e3027d0a7bc5d4fa08b5d0063
+## COMMIT: 2cbb11297c376e5343e4885c5fb091904ea1a9e4
 git clone https://github.com/4dn-dcic/merge-pairs
 cd merge-pairs
-git checkout 899591c9f81bc67e3027d0a7bc5d4fa08b5d0063
+git checkout 2cbb11297c376e5343e4885c5fb091904ea1a9e4
 chmod +x merge-pairs
 cd ..
 
