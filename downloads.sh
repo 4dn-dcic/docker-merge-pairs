@@ -2,11 +2,11 @@
 
 ## SOFTWARE: merge-pairs
 ## VERSION: 
-## COMMIT: 
-git clone https://github.com/soolee/merge-pairs
-cd bwa
-git checkout 
-make
+## COMMIT: a1361cf5529268b92b86b5aa4c1576f856882b50
+git clone https://github.com/4dn-dcic/merge-pairs
+cd merge-pairs
+git checkout a1361cf5529268b92b86b5aa4c1576f856882b50
+chmod +x merge-pairs
 cd ..
 
 

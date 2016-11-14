@@ -29,7 +29,7 @@ docker push duplexa/merge-pairs:v1
 ## Usage
 Run the following in the container.
 ```
-run.sh <pairs1> <pairs2> [<pairs3> [...]]  <output_prefix>
-# pairs1, pairs2, ... : input pairs files
+run.sh <output_prefix> <pairs1> <pairs2> [<pairs3> [...]]  
 # output_prefix : prefix of the output pairs file.
+# pairs1, pairs2, ... : input pairs files
 ```

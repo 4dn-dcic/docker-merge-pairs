@@ -13,7 +13,7 @@ RUN . downloads.sh
 
 # set path
 ENV PATH=/usr/local/bin/merge-pairs/:$PATH
-ENV PATH=/usr/local/bin/pairix/:$PATH
+ENV PATH=/usr/local/bin/pairix/bin/:$PATH
 
 # wrapper
 COPY run.sh .
