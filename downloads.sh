@@ -2,11 +2,10 @@
 
 
 ## SOFTWARE: pairix
-## COMMIT: a71b95ce2b441dbe30b6990ac67b4051bd192149
+## COMMIT: e65cffe4bbd3174f7df55eeb6a3c0feaf95d8aad
 git clone https://github.com/hms-dbmi/pairix 
 cd pairix
-git checkout a71b95ce2b441dbe30b6990ac67b4051bd192149
+git checkout e65cffe4bbd3174f7df55eeb6a3c0feaf95d8aad
 make
-chmod +x merge-pairs/merge-pairs
 cd ..
 
